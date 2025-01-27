@@ -1,0 +1,6 @@
+In order to get sound from your virtual alarm, you should the install "playsound" on your system.
+
+You can do it by using following code:
+
+"pip install playsound"
+
